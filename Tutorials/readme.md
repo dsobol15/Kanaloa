@@ -1,9 +1,9 @@
 # Tutorials Directory
 
 This is where you put your tutorials
-Kanaloa / Tutorials / Light Buoy
 
-Light Buoy Tutorial
+
+Light Buoy Instructions
 Tutorial references:
 RobotX 
 •	Light Buoy Preliminary Specifications
